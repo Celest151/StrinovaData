@@ -1,0 +1,37 @@
+[
+  {
+    "Type": "BlueprintGeneratedClass",
+    "Name": "PMPrimaryAssetLabel_Localization_C",
+    "Class": "UScriptClass'BlueprintGeneratedClass'",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "SuperStruct": {
+      "ObjectName": "Class'PMPrimaryAssetLabel'",
+      "ObjectPath": "/Script/PMGame"
+    },
+    "ClassFlags": "CLASS_Optional | CLASS_ReplicationDataIsSetUp | CLASS_CompiledFromBlueprint",
+    "ClassWithin": {
+      "ObjectName": "Class'Object'",
+      "ObjectPath": "/Script/CoreUObject"
+    },
+    "ClassConfigName": "Engine",
+    "bCooked": true,
+    "ClassDefaultObject": {
+      "ObjectName": "PMPrimaryAssetLabel_Localization_C'Default__PMPrimaryAssetLabel_Localization_C'",
+      "ObjectPath": "PM/Content/Localization/PMPrimaryAssetLabel_Localization.1"
+    }
+  },
+  {
+    "Type": "PMPrimaryAssetLabel_Localization_C",
+    "Name": "Default__PMPrimaryAssetLabel_Localization_C",
+    "Class": "BlueprintGeneratedClass'PM/Content/Localization/PMPrimaryAssetLabel_Localization.PMPrimaryAssetLabel_Localization_C'",
+    "Flags": "RF_Public | RF_Transactional | RF_ClassDefaultObject | RF_ArchetypeObject | RF_WasLoaded | RF_LoadCompleted",
+    "Properties": {
+      "Rules": {
+        "Priority": 4,
+        "ChunkId": 4,
+        "bApplyRecursively": true
+      },
+      "bIsRuntimeLabel": true
+    }
+  }
+]
