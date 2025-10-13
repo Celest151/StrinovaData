@@ -1,0 +1,70 @@
+{
+  "Contexts": {
+    "WFEditor": "WFEditor Plugin",
+    "WFToolsOtherModule": "WFTools Other Module"
+  },
+  "FPMEditorModule": {
+    "WFEditor": "WFEditor",
+    "WarFrame": "WarFrame",
+    "WarFrame_ToolTips": "WarFrame_ToolTips"
+  },
+  "FWFEditorModule": {
+    "OtherTools": "Other Tools",
+    "FWFEditorModule_paintMode": "PaintMode",
+    "FWFEditorModule_TAB_WFAssetImporter": "WFAssetImporter",
+    "FWFEditorModule_TAB_WFSALW": "WFSALW"
+  },
+  "PMEditorModule": {
+    "CancelButton": "Cancel",
+    "OkButton": "Ok"
+  },
+  "UICommands.FWFEditorModule": {
+    "SetTextureGroup": "Batch Set TextureGroup",
+    "OpenPluginWindow_ToolTip": "打开WFEditor",
+    "CheckUIBpCompileError_ToolTip": "Check All BP In Folder",
+    "CheckDynamicResourceReference": "Check Dynamic Resource Reference",
+    "CheckDynamicResourceReference_ToolTip": "Check Dynamic Resource Reference For Select Folder",
+    "CheckFontSetting": "Check Font Setting",
+    "CheckFontSetting_ToolTip": "Check Font Setting For CurrentWorld Folder",
+    "CheckUIBpCompileError": "Check UIBP Compile Error",
+    "RefreshPackages_ToolTip": "Fix File Cannot Finder",
+    "RefreshPackages": "Refresh Packages",
+    "SetTextureGroup_ToolTip": "Select Folder For Set TextureGroup",
+    "OpenPluginWindow": "WFEditor"
+  },
+  "WFEditorAssetImportOption": {
+    "WFEditorAssetImport_Cancel": "Cancel",
+    "WFEditorAssetImport_Cancel_ToolTip": "Cancels importing this FBX file",
+    "WFEditorAssetImport_GenerateBlendSpaceFiles": "生成BlendSpace",
+    "WFEditorAssetImport_GenerateBlendSpaceFiles_ToolTip": "根据BlendSpaceRules配置生成BlendSpace",
+    "WFEditorAssetImport_GenerateWeaponBpFiles": "生成武器BP",
+    "WFEditorAssetImport_GenerateWeaponBpFiles_ToolTip": "根据WeaponBPRules配置生成BP",
+    "WFEditorAssetImport_GenerateWeaponCsv": "生成武器配置",
+    "WFEditorAssetImport_GenerateWeaponCsv_ToolTip": "根据BlendSpaceRules配置生成BlendSpace",
+    "Import_CurrentFileTitle": "资源导入",
+    "WFEditorAssetImport_ImportCharacterAnim": "导入角色动作",
+    "WFEditorAssetImport_ImportCharacterAnim_ToolTip": "根据CharacterFbxRules配置规则导入角色动作",
+    "WFEditorAssetImport_ImportWeaponAnim": "导入武器动作",
+    "WFEditorAssetImport_ImportWeaponAnim_ToolTip": "根据WeaponFbxRules配置规则导入武器动作",
+    "WFEditorAssetImport_LOD_ToolTip": "Modify Min LOD",
+    "WFEditorAssetImport_LOD": "Modify MinLOD",
+    "WFEditorAssetImport_ResetOptions": "重置",
+    "WFEditorAssetImport_Save": "保存",
+    "WFEditorAssetImport_ToolTip": "保存所有修改的内容"
+  },
+  "WFEditorModule": {
+    "WFEditorConfigDescription": "WFEditor相关设置.",
+    "WFEditorConfigName": "WFEditor设置"
+  },
+  "WFEditorSettingsDetails": {
+    "CharacterName_Menu_Description": " 最多能配置62个角色名，已配置的角色名出现在WFEditor的资源导入页.",
+    "WeaponName_Menu_Description": " 最多能配置62个武器名，已配置的武器名出现在WFEditor的资源导入页.",
+    "FWFEditorSettingsDetails_CharacterName": "角色名",
+    "FWFEditorSettingsDetails_InvalidName": "名称已存在.",
+    "CharacterName": "编辑角色名",
+    "WeaponName": "编辑武器名",
+    "FWFEditorSettingsDetails_WeaponName": "武器名",
+    "SCharacterNameListItem_DeleteConfirm": "是否要删除此角色名？如果角色名已使用，删除会影响相应功能。",
+    "SWeaponNameListItem_DeleteConfirm": "是否要删除此武器名？如果武器名已使用，删除会影响相应功能。"
+  }
+}
